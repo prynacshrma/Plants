@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
     <par_dashboard_tab action="INSERT_OR_UPDATE">
         <active>true</active>
-        <background_color/>
         <dashboard display_value="Plants Management Overview">5f4d412283511210742c7fdfeeaad3b8</dashboard>
         <name>New Tab 1</name>
         <order>0</order>
